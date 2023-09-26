@@ -1,7 +1,7 @@
 [
     {
       "kernelSource": {
-        "name": "Chopin_KernelSU_Proton",
+        "name": "Addison_Proton",
         "repo": "https://github.com/addison-experimentations/kernel-msm8953",
         "branch": "4.9-addison",
         "device": "addison",
